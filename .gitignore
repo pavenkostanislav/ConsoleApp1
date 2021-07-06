@@ -1,0 +1,6 @@
+/.vs/*
+
+/socket-ex1-app/bin/*
+/socket-ex1-app/obj/*
+/socket-ex2-app/bin/*
+/socket-ex2-app/obj/*

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "socket-ex1-app", "socket-ex1-app\socket-ex1-app.csproj", "{3CA1E4D0-4AB4-4644-9A19-64831049C5BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "socket-ex2-app", "socket-ex2-app\socket-ex2-app.csproj", "{C5CF28A1-FB31-427C-9D91-ACB1B3644F9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CA1E4D0-4AB4-4644-9A19-64831049C5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA1E4D0-4AB4-4644-9A19-64831049C5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA1E4D0-4AB4-4644-9A19-64831049C5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA1E4D0-4AB4-4644-9A19-64831049C5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5CF28A1-FB31-427C-9D91-ACB1B3644F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CF28A1-FB31-427C-9D91-ACB1B3644F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CF28A1-FB31-427C-9D91-ACB1B3644F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CF28A1-FB31-427C-9D91-ACB1B3644F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDC4EC1C-8D36-455F-8F04-BEEF741D8A46}
+	EndGlobalSection
+EndGlobal
